@@ -32,7 +32,7 @@
 **环境要求**：Python **3.9+**（代码用了 `list[dict]` 这类内置泛型注解）
 
 ```bash
-git clone https://github.com/WuZL567/ai-knowledge-qa.git
+git clone https://github.com/iamwuzhanglin/ai-knowledge-qa.git
 cd ai-knowledge-qa          # 下面所有命令都在仓库根目录执行
 
 # 后端（终端 1）
